@@ -1,0 +1,4 @@
+_version = 0.1
+
+[password_validator]
+activity_id = "fun-ex-kata-password"
